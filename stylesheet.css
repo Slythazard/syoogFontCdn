@@ -3,9 +3,8 @@
     font-family: 'syoog';
     src: url('fonts/syoogbold.woff2') format('woff2'),
          url('fonts/syoogbold.woff') format('woff');
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
-
 }
 
 
@@ -15,9 +14,8 @@
     font-family: 'syoog';
     src: url('fonts/syooglight.woff2') format('woff2'),
          url('fonts/syooglight.woff') format('woff');
-    font-weight: light;
+    font-weight: 200;
     font-style: normal;
-
 }
 
 
@@ -27,7 +25,6 @@
     font-family: 'syoog';
     src: url('fonts/syoogregular.woff2') format('woff2'),
          url('fonts/syoogregular.woff') format('woff');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
-
 }
