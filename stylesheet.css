@@ -1,8 +1,8 @@
 
 @font-face {
     font-family: 'syoog';
-    src: url('./fonts/syoogbold.woff2') format('woff2'),
-         url('./fonts/syoogbold.woff') format('woff');
+    src: url('fonts/syoogbold.woff2') format('woff2'),
+         url('fonts/syoogbold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -13,8 +13,8 @@
 
 @font-face {
     font-family: 'syoog';
-    src: url('./fonts/syooglight.woff2') format('woff2'),
-         url('./fonts/syooglight.woff') format('woff');
+    src: url('fonts/syooglight.woff2') format('woff2'),
+         url('fonts/syooglight.woff') format('woff');
     font-weight: light;
     font-style: normal;
 
@@ -25,8 +25,8 @@
 
 @font-face {
     font-family: 'syoog';
-    src: url('./fonts/syoogregular.woff2') format('woff2'),
-         url('./fonts/syoogregular.woff') format('woff');
+    src: url('fonts/syoogregular.woff2') format('woff2'),
+         url('fonts/syoogregular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
