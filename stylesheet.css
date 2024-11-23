@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'syoog';
+    src: url('syoogbold.woff2') format('woff2'),
+         url('syoogbold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'syoog';
+    src: url('syooglight.woff2') format('woff2'),
+         url('syooglight.woff') format('woff');
+    font-weight: light;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'syoog';
+    src: url('syoogregular.woff2') format('woff2'),
+         url('syoogregular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
